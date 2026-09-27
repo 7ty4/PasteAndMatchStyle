@@ -1,0 +1,8 @@
+name: Paste & Match Style
+identifier: com.7ty4.pastematchstyle
+description: Paste clipboard content matching the formatting of the surrounding text.
+popclip version: 6221
+icon: symbol:doc.on.clipboard.fill
+requirements: [paste]
+keyCombo: option shift command v
+keyComboTarget: app
